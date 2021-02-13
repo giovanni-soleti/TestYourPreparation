@@ -4,3 +4,5 @@ This python script has the aim to help a student for a test preparation. Given a
     -remove the question generated
     -substitute the question generated.
     
+Notice:
+When you remove a question, this will deleted by your question.txt. Please, create a backup file copy before the use of the application.
